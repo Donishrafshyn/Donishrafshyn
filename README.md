@@ -39,7 +39,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Database
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
