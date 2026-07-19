@@ -104,7 +104,7 @@ Centralized web application for intelligent service allocation.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Donishrafshyn&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Donishrafshyn&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Donishrafshyn&theme=tokyonight"/>
 
@@ -112,7 +112,7 @@ Centralized web application for intelligent service allocation.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donishrafshyn&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Donishrafshyn&layout=compact&theme=tokyonight"/>
 
 </p>
 
